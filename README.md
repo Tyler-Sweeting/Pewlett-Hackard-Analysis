@@ -17,4 +17,7 @@ There are two main questions to focus on for our summary. One, how many roles wi
 
 The answer to the first question is 72,458 roles will need to be filled. 50,842 of those roles are from senior positions, accounting for 70.2% of the vaccancies.
 
+<img width="200" alt="retiring-titles" src="https://user-images.githubusercontent.com/118485409/213552052-1fc33fe5-9b7a-4ab5-a88d-fa21e6632855.png">
+
 The second question simply put, is yes there are enoguh retirment-ready employees that could create a mentorship program for the future. 1549 employees fit the criteria and with the majority of them coming from senior roles, would make for great candidates to mentor the employees that are needed to replace their vaccant positions.
+<img width="581" alt="mentorship_eligibility" src="https://user-images.githubusercontent.com/118485409/213552142-db7c4612-18f8-48cb-9f2c-79ccf626b8f9.png">
